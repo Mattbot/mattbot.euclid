@@ -1,0 +1,4 @@
+LIBRARY euclid.mxe
+
+EXPORTS
+	main
